@@ -1,3 +1,11 @@
+/*      Pesudo code
+* 1, import Arrays and scanner classes
+* 2, prrompt the user to enter 10 numbers and store them in a array
+* 3, loop thought the array and find the biggest and smallest numbers
+* 4, loop thorght the array and find the sum of each elements
+* 5, divide the sum by 10 to find the avarage
+* 6, dispaly the value inside the biggest, smallest and array.*/
+
 import java.util.Arrays;
 import java.util.Scanner;
 public class TestScores {
